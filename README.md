@@ -3,7 +3,9 @@
 ### Computer Science Engineer | AI & Data Science | Business Intelligence & Finance
 
 🎓 **Computer Science Engineer — ENSI**
+
 📊 **Master's in Data Science for Business — ISGT**
+
 💻 **Bachelor's in Business Computing — Business Intelligence — ISGT**
 
 ---
