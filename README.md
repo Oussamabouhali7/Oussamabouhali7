@@ -2,7 +2,7 @@
 
 ### Computer Science Engineer | AI & Data Science | Business Intelligence & Finance
 
-🎓 **Computer Science Engineer — ENSI**
+🎓 **Computer Science Engineer — Finance Track — ENSI**
 
 📊 **Master's in Data Science for Business — ISGT**
 
