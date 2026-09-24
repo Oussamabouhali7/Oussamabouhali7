@@ -95,6 +95,11 @@ Data analysis, visualization, and Business Intelligence projects using **Python,
 
 ---
 
+## 📄 Curriculum Vitae
+
+📑 [View my CV](https://github.com/Oussamabouhali7/Oussama_Bouhali_CV_Finance_DS.pdf)
+
+
 ## 📫 Connect With Me
 
 ### 💼 LinkedIn
