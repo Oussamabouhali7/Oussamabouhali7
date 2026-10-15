@@ -51,7 +51,7 @@ I enjoy developing data-driven solutions and applying Machine Learning and Deep 
 
 ### 💻 Programming & Development
 
-`Python` `SQL` `JavaScript` `FastAPI` `React`
+`Python` `SQL` `JavaScript` `FastAPI` `React` `R`
 
 ### 🤖 AI & Machine Learning
 
