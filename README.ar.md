@@ -1,5 +1,5 @@
 [🇬🇧 English](README.md) | [🇫🇷 Français](README.fr.md) | [🇩🇪 Deutsch](README.de.md) | [🇹🇳 العربية](README.ar.md)
-# 👋 مرحباً، أنا أسامة بوحالي | Oussama Bouhali
+# 👋 مرحباً، أنا أسامة البوهالي | Oussama Bouhali
 
 ### مهندس في علوم الحاسوب | الذكاء الاصطناعي وعلوم البيانات | ذكاء الأعمال والمالية
 
