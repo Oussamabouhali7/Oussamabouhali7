@@ -1,4 +1,4 @@
-[🇬🇧 English](README.md) | [🇫🇷 Français](README.fr.md)
+[🇬🇧 English](README.md) | [🇫🇷 Français](README.fr.md) | [🇩🇪 Deutsch](README.de.md)
 # 👋 Hi, I'm Oussama Bouhali
 
 ### Computer Science Engineer | AI & Data Science | Business Intelligence & Finance
