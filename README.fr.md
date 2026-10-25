@@ -1,3 +1,4 @@
+[🇬🇧 English](README.md) | [🇫🇷 Français](README.fr.md)
 # 👋 Bonjour, je suis Oussama Bouhali
 
 ### Ingénieur en informatique | Intelligence Artificielle & Data Science | Business Intelligence & Finance
